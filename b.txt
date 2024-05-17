@@ -1,0 +1,5 @@
+def additon():
+n1=int("input enter numer")
+n2=int("input enter numer")
+s=n1+n2
+additon()
